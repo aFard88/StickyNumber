@@ -1,8 +1,8 @@
 # StickyNumber
 A Game With Chances!
-Choose a Range , Than Find the Number and Win cakes! (BTW , Not realcake!)
+Choose a number range, then find the number and win cakes!(Not real cakes, BTW!)
        * How To Compile ? 
-Download VS 2022 and Compile it!
+Download VS 2022 and compile it!
 
 
-Download The Release zip and open it! , If it gives you an error , Install .Net Desktop Runtime Latest
+Download the release zip and open it! If it gives you an error ,install .Net desktop runtime latest
